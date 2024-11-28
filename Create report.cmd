@@ -1,0 +1,1 @@
+allure generate --single-file
