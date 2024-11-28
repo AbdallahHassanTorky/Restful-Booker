@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BookingAPI Test Suite">
+    <test name="BookingAPI Tests">
+        <classes>
+            <class name="BookingApi.BookingAPITest"/>
+        </classes>
+    </test>
+</suite>
